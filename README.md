@@ -32,3 +32,7 @@ A Gridsome starter using Auth0 for user authentication.
 ## Notes
 
  - This repo is a fork of this [personal portfolio website](https://github.com/drehimself/gridsome-portfolio-starter).
+
+Happy coding!
+
+[Gridsome Shopify = ❤️](https://gridsomify.com)
